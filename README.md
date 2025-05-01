@@ -1,6 +1,6 @@
 # UFO Sighting Prediction and Comment Generation
 
-This project is a machine learning-based UFO prediction system. Using a trained Recurrent Neural Network model, it predicts the coordinates, shape, and time of the next potential UFO sighting. It also generates a comment about the sighting using a trained text prediction model and enhances it with Google Gemini's API.
+This project is a machine learning-based UFO prediction system. Using trained Recurrent Neural Network models, it predicts the coordinates, shape, and time of the next potential UFO sighting. It also generates a comment about the sighting using a trained text prediction model and enhances it with Google Gemini's API.
 
 ## Features:
   - Predict next UFO sighting coordinates, shape, and time
