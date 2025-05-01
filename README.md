@@ -12,8 +12,9 @@ This project is a machine learning-based UFO prediction system. Using trained Re
   - Install dependencies with pip install: `gradio`, `google-generativeai`, `pandas`, `numpy`, `tensorflow` `scikit-learn`, `folium` `pillow`.
   - Ensure you have API keys for Google Gemini.
   - Required models: `UFO_PREDICTOR_UPDATED.h5`, `UFO_Comment_Generator_Optimal_1.h5`, `scaler_UPDATED.pkl`.
+  - Required Data: `scrubbed.csv` (Obtained from NUFORC).
 
 ## Usage:
-  - Run the Gradio App block found at the end of the notebook
+  - Run the Gradio App block found at the end of the notebook.
   - Press the "Predict Next Sighting" button to get a prediction and related information of the next sighting.
       
