@@ -9,7 +9,7 @@ This project is a machine learning-based UFO prediction system. Using a trained 
   - Comment generation
 
 ## Setup and Requirements:
-  - Install dependencies with `pip install gradio google-generativeai pandas numpy tensorflow scikit-learn folium pillow`.
+  - Install dependencies with pip install: `gradio`, `google-generativeai`, `pandas`, `numpy`, `tensorflow` `scikit-learn`, `folium` `pillow`.
   - Ensure you have API keys for Google Gemini.
   - Required models: `UFO_PREDICTOR_UPDATED.h5`, `UFO_Comment_Generator_Optimal_1.h5`, `scaler_UPDATED.pkl`.
 
